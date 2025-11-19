@@ -4,7 +4,7 @@ A lightweight industrial orchestration module for batching automation, real-time
 ### 🏗 System Architecture
 
 Frontend (Web UI) <br>
-   ↓ <br>
+'  ↓ <br>
 Backend (PHP + C/C++ Runtime) <br>
    ↓ <br>
 Memcache (Queue + Cache Layer) <br>
@@ -83,7 +83,7 @@ PLC / Load Cell Devices <br>
 ### 👨‍💻 Author Contribution <br>
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author. <br><br>
  
-#### 📎 [download technical pdf] : <br><br>
+> #### 📎 [download technical pdf] : (./docs/)   <br><br>
 
 ### 🏗️ Branch Structure<br>
 
@@ -96,5 +96,5 @@ This system and all components described in this document—including the archit
   This branch contains the standalone Orchestrix framework used to build multiple automation systems, including the Batching Plant project.<br>
 
 **Customer Project**<br>
-- **batching-plant* <br>
+**batching-plant* <br>
   This branch holds the Batching Plant implementation delivered to the customer, powered by the Orchestrix framework.
