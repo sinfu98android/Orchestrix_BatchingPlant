@@ -13,7 +13,7 @@ MySQL Database
    ↓
 PLC / Load Cell Devices
 
-Network & Protocol Support
+##### Network & Protocol Support
 •	TCP / RS485
 •	Local network or cloud-based control
 •	No OPC server required
@@ -28,7 +28,7 @@ Network & Protocol Support
 
 
 ### 🚀 Batching Plant Features
-Core Features
+###### Core Features
 •	ERP → Automatic batching job creation
 •	Real-time ingredient weighing
 •	Automatic sequence control (mixing, dosing, loading)
@@ -38,7 +38,7 @@ Core Features
 •	Event monitoring + alarms
 •	Full traceability (batch history)
 
-Operational Features
+###### Operational Features
 •	Multi-plant centralized web control
 •	1 operator can run multiple batching lines
 •	Remote troubleshooting & maintenance
@@ -55,7 +55,7 @@ Operational Features
 •	Seamless remote access lowers onsite technician visits
 
 ### 📊 Data Intelligence & Analytics
-Orchestrix generates:
+###### Orchestrix generates:
 •	Material accuracy variance
 •	Cycle time distribution
 •	Batch quality metrics
@@ -68,14 +68,14 @@ Orchestrix generates:
 
 
 ### 🧩 PLC Edge Integration
-Orchestrix communicates directly with:
+###### Orchestrix communicates directly with:
 •	Mitsubishi PLCs
 •	Omron PLCs
 •	Schneider PLCs (Modbus)
 •	Modbus TCP devices
 •	Load cell amplifiers
 
-This allows:
+###### This allows:
 •	Fast message response
 •	Custom low-level C/C++ driver handling
 •	No OPC server required
@@ -84,8 +84,7 @@ This allows:
 ### 👨‍💻 Author Contribution
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author.
 
-[download technical pdf] : (https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/b2e3d1227beb0b92ec9e5ddc0fab5238427f9c10/Batching%20plant%20Github.pdf)
-
+#### 📎 [download technical pdf] : (./docs/Batching plant Github.pdf)
 
 🏗️ Branch Structure
 
