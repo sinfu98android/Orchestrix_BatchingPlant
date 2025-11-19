@@ -4,7 +4,7 @@ A lightweight industrial orchestration module for batching automation, real-time
 ### 🏗 System Architecture
 
 Frontend (Web UI) <br>
-'  ↓ <br>
+  ↓ <br>
 Backend (PHP + C/C++ Runtime) <br>
    ↓ <br>
 Memcache (Queue + Cache Layer) <br>
@@ -83,7 +83,7 @@ PLC / Load Cell Devices <br>
 ### 👨‍💻 Author Contribution <br>
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author. <br><br>
  
-> #### 📎 [download technical pdf] : (./docs/)   <br><br>
+> #### 📎 [download technical pdf] : (./docs/Batching plant Github.pdf)   <br><br>
 
 ### 🏗️ Branch Structure<br>
 
