@@ -87,16 +87,3 @@ This system and all components described in this document—including the archit
 *Note : Github Sometimes cannot preview PDF file directly, please download to view*
 <br><br>
 
-### 🏗️ Branch Structure<br>
-
-**Default Branch**<br>
-**main**<br>
-  This is the default branch. It contains the complete Batching Plant system, which is built on top of the Orchestrix framework.<br>
-
-**Framework** <br>
-*orchestrix-framework*<br>
-  This branch contains the standalone Orchestrix framework used to build multiple automation systems, including the Batching Plant project.<br>
-
-**Customer Project**<br>
-**batching-plant* <br>
-  This branch holds the Batching Plant implementation delivered to the customer, powered by the Orchestrix framework.
