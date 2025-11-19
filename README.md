@@ -1,7 +1,7 @@
 # Orchestrix---BatchingPlant
 A lightweight industrial orchestration module for batching automation, real-time analytics, and direct PLC integration. Designed for high-speed, low-latency environments without requiring middleware servers or OPC bridges.
 
-🏗 System Architecture
+### 🏗 System Architecture
 
 Frontend (Web UI)
    ↓
@@ -18,7 +18,7 @@ Network & Protocol Support
 •	Local network or cloud-based control
 •	No OPC server required
 
-⚙️ Tech Stack
+### ⚙️ Tech Stack
 •	Frontend: JavaScript web UI
 •	Backend: PHP
 •	Low-Level Drivers: Custom C/C++
@@ -27,7 +27,7 @@ Network & Protocol Support
 •	Deployment: FTP (WinSCP – legacy industrial environments)
 
 
-🚀 Batching Plant Features
+### 🚀 Batching Plant Features
 Core Features
 •	ERP → Automatic batching job creation
 •	Real-time ingredient weighing
@@ -46,7 +46,7 @@ Operational Features
 •	Very lightweight (no middleware bridge needed)
 
 
-⚡ Performance & Impact
+### ⚡ Performance & Impact
 •	2+ years continuous operation in real industrial environment
 •	Reduced downtime via predictive maintenance
 •	OEE insights for cycle time, machine utilization, quality
@@ -54,7 +54,7 @@ Operational Features
 •	Reduced staffing → 1 operator can handle multi batching plant
 •	Seamless remote access lowers onsite technician visits
 
-📊 Data Intelligence & Analytics
+### 📊 Data Intelligence & Analytics
 Orchestrix generates:
 •	Material accuracy variance
 •	Cycle time distribution
@@ -67,7 +67,7 @@ Orchestrix generates:
 •	Provides deep analysis and historical quality records for batching plant performance
 
 
-🧩 PLC Edge Integration
+### 🧩 PLC Edge Integration
 Orchestrix communicates directly with:
 •	Mitsubishi PLCs
 •	Omron PLCs
@@ -81,7 +81,7 @@ This allows:
 •	No OPC server required
 •	High performance in constrained environments
 
-👨‍💻 Author Contribution
+### 👨‍💻 Author Contribution
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author.
 
 [download technical pdf] : (https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/b2e3d1227beb0b92ec9e5ddc0fab5238427f9c10/Batching%20plant%20Github.pdf)
