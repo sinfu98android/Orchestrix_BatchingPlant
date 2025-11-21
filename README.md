@@ -85,7 +85,7 @@ PLC / Load Cell Devices <br>
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author. <br><br>
  
 ### Technical Batching Plant pdf
-[📎  download technical pdf](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/b4af02769f587b4d781dcbac984bf1c218ffe177/Batching%20plant%20Github.pdf)   <br>
+[📎  download technical pdf](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/eede6d837fe12a0d6a4999ec92bdf4642d41918e/Batching%20plant%20Technical%20PDF.pdf)   <br>
 *Note : Github Sometimes cannot preview PDF file directly, please download to view.*
 <br><br>
 
