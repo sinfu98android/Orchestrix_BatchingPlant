@@ -95,7 +95,7 @@ This system and all components described in this document—including the archit
 
 <br><br>
 #### 🎥**Watch a video of the commissioning and on-site trial** of the Batching Plant system
-[  Batching Plant system video](https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
+![  Batching Plant system video](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
 
 ### This Batching Plant system is built on top of the Orchestrix framework <br>
 [🔗  Orchestrix Framework link](https://github.com/sinfu98android/Orchestrix_main_framework) 
