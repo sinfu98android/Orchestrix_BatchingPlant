@@ -1,6 +1,7 @@
 # Orchestrix---BatchingPlant
-**Watch a video of the commissioning and on-site trial of the Batching Plant system**<br>
-🎥 [  YouTube link](https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
+#### 🎥**Watch a video of the commissioning and on-site trial** of the Batching Plant system
+![  Batching Plant system video](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br><br>
+
 
 A lightweight industrial orchestration module for batching automation, real-time analytics, and direct PLC integration. Designed for high-speed, low-latency environments without requiring middleware servers or OPC bridges.<br>
 **Designed and developed the Orchestrix software framework entirely from scratch**. Applied it to a refurbished batching plant, collaborating with the operator and their staff for system integration, commissioning, and performance optimization<br>
@@ -94,8 +95,7 @@ This system and all components described in this document—including the archit
 ![System Architecture & Impact](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/66e8c4249e480d7ae174f78da01db4e5ae3e1bdf/BatchingPlant_Orchestrix_Architecture_Impact.png.jpg)
 
 <br><br>
-#### 🎥**Watch a video of the commissioning and on-site trial** of the Batching Plant system
-![  Batching Plant system video](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
+
 
 ### This Batching Plant system is built on top of the Orchestrix framework <br>
 [🔗  Orchestrix Framework link](https://github.com/sinfu98android/Orchestrix_main_framework) 
