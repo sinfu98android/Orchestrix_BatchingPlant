@@ -56,7 +56,7 @@ PLC / Load Cell Devices <br>
 •	Reduced downtime via predictive maintenance <br>
 •	OEE insights for cycle time, machine utilization, quality <br>
 •	Faster troubleshooting with centralized logs <br>
-•	Reduced staffing → 1 operator can handle multi batching plant <br>
+•	Reduced staffing, previous 1 operator 1 batching plant → 1 operator can handle multi batching plant <br>
 •	Seamless remote access lowers onsite technician visits <br>
 • Brand-agnostic design reduces machine and maintenance costs by ~30%+ compared to original vendor parts  
 
