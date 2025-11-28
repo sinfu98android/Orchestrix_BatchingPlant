@@ -99,7 +99,7 @@ This system and all components described in this document—including the archit
 
 The batching plant automation system is powered by the **Orchestrix Framework**, providing deterministic, middleware-free control and HMI.  
 
-This **panel box** represents the heart of the system, installed in the field and used in production. It demonstrates:
+This **panel** represents the heart of the system, installed in the field and used in production. It demonstrates:
 
 - Real industrial deployment  
 - Integration of HMI, PLC logic, and Orchestrix orchestration  
